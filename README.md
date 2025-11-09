@@ -1,4 +1,4 @@
-# Original repo - [YouTube Playlist Downloader ✨](https://github.com/DhananjayPorwal/youtube-playlist-downloader/releases/download/v2.0/youtube-playlist-downloader.zip)
+# Original repo -> [YouTube Playlist Downloader ✨](https://github.com/DhananjayPorwal/youtube-playlist-downloader/releases/download/v2.0/youtube-playlist-downloader.zip)
 
 ## Installation
 
